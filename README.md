@@ -1,16 +1,17 @@
-## Hi there 👋
+markdown<div align="center">
+  <img src="image_336a38c3.png" alt="Banner de Carlos Borja - Analista de Datos Jr" width="100%">
+  
+  # 👋 ¡Hola! Soy Carlos Borja
+  ### Analista de Datos Jr. | Comportamiento del Cliente | Clustering | Industria: Deportes
+</div>
 
-<!--
-**cabn030399/cabn030399** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Sobre mí
+Soy un apasionado de los datos y creador de contenido en LinkedIn. Me especializo en transformar información compleja en decisiones estratégicas, con un enfoque fuerte en analítica deportiva y segmentación de clientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ **Stack Tecnológico:** SQL, Python, Excel, Power BI.
+- 🎯 **Especialidades:** Clustering (K-means), Análisis de Ventas y Marketing.
+- ✍️ **Contenido:** Comparto insights sobre data en mi red profesional.
+
+---
