@@ -1,5 +1,5 @@
 markdown<div align="center">
-  <img src="carlosborja.png" alt="Banner de Carlos Borja - Analista de Datos Jr" width="100%">
+  <img src="carlosborja" alt="Banner de Carlos Borja - Analista de Datos Jr" width="100%">
   
   # 👋 ¡Hola! Soy Carlos Borja
   ### Analista de Datos Jr. | Comportamiento del Cliente | Clustering | Industria: Deportes
