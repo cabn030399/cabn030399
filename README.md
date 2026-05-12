@@ -1,5 +1,5 @@
 markdown<div align="center">
-  <img src="./imagen_239009f9.png" alt="Banner de Carlos Borja" width="100%">
+  <img src="./image_239009f9.png" alt="Banner de Carlos Borja" width="100%">
 </div>
   
   # 👋 ¡Hola! Soy Carlos Borja
