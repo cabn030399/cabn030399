@@ -3,7 +3,7 @@ markdown<div align="center">
 </div>
   
   # 👋 ¡Hola! Soy Carlos Borja
-  ### Analista de Datos Jr. | Comportamiento del Cliente | Clustering | Industria: Deportes
+  ### Analista de Datos.| Comportamiento del Cliente | Clustering | Industria: Deportes
 </div>
 
 ---
