@@ -3,7 +3,7 @@ markdown<div align="center">
 </div>
   
   # 👋 ¡Hola! Soy Carlos Borja
-  ### Analista de Datos.| Comportamiento del Cliente | Clustering | Comportamiento de clientes
+  ### Analista de Datos.| Comportamiento del Cliente | Clustering | Optimizacion de presupuesto | Estrategias de Monetizacion
 </div>
 
 ---
