@@ -1,5 +1,6 @@
 markdown<div align="center">
-  <img src="./image_239009f9.png" alt="Banner de Carlos Borja" width="100%">
+<img width="1983" height="793" alt="carlosborjaportada" src="https://github.com/user-attachments/assets/e9eda3ea-98da-4504-ae0c-18dd05f5ada2" />
+
 </div>
   
   # 👋 ¡Hola! Soy Carlos Borja
