@@ -3,17 +3,68 @@ markdown<div align="center">
 
 </div>
   
-  # 👋 ¡Hola! Soy Carlos Borja
-  ### Analista de Datos.| Comportamiento del Cliente | Clustering | Optimizacion de presupuesto | Estrategias de Monetizacion
-</div>
+# 👋 ¡Hola! Soy Carlos Borja
+
+### 📊 Data Analyst | Sports Analytics | Business Intelligence | SQL • Python • BigQuery • Tableau
 
 ---
 
-### 🚀 Sobre mí
-Soy un apasionado de los datos y creador de contenido en LinkedIn. Me especializo en transformar información compleja en decisiones estratégicas, con un enfoque fuerte en analítica deportiva y segmentación de clientes.
+# 🚀 Sobre mí
 
-- 🛠️ **Stack Tecnológico:** SQL, Python, Excel, Power BI.
-- 🎯 **Especialidades:** Clustering (K-means), Análisis de Ventas y Marketing.
-- ✍️ **Contenido:** Comparto insights sobre data en mi red profesional.
+Soy Analista de Datos con interés en convertir datos complejos en información útil para la toma de decisiones.
 
+Actualmente desarrollo **México2030 Analytics**, un proyecto de analítica deportiva que analiza el rendimiento histórico de la Selección Mexicana utilizando una arquitectura completa de datos:
+
+**Kaggle → Python → BigQuery → Tableau → Storytelling**
+
+Mi objetivo es especializarme en **Sports Analytics** y Business Intelligence, desarrollando soluciones basadas en datos que generen impacto tanto en organizaciones como en el deporte profesional.
+
+---
+
+# 🛠️ Tecnologías
+
+- SQL
+- Python
+- BigQuery
+- Tableau
+- Excel
+- Git & GitHub
+
+---
+
+# 📈 Áreas de interés
+
+- ⚽ Sports Analytics
+- 📊 Business Intelligence
+- 📉 Data Visualization
+- 🏆 Storytelling con Datos
+- 📂 Data Warehousing
+- 📈 Análisis Exploratorio (EDA)
+
+---
+
+# 🚀 Proyecto Destacado
+
+## 🇲🇽 México2030 Analytics
+
+Proyecto de análisis histórico de la Selección Mexicana rumbo al Mundial 2030.
+
+Incluye:
+
+- Arquitectura Bronze • Silver • Gold
+- BigQuery como Data Warehouse
+- SQL para análisis histórico
+- Dashboards interactivos en Tableau
+- Publicación periódica de insights en LinkedIn
+
+---
+
+# 🌎 Conecta conmigo
+
+- www.linkedin.com/in/carlos-borja-analista
+- armandoborjanava@gmail.com
+
+---
+
+> *"Los datos cuentan historias. Mi trabajo consiste en convertirlas en decisiones."*
 ---
