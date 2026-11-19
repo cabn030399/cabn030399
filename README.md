@@ -7,7 +7,7 @@ markdown<div align="center">
   
 # 👋 ¡Hola! Soy Carlos Borja
 
-### 📊 Data Analyst | Sports Analytics | Business Intelligence | SQL • Python • BigQuery • Tableau
+### 📊 Data Analyst | Sports Analytics | Business Intelligence | SQL • Python • BigQuery • Tableau  • Excel
 
 ---
 
