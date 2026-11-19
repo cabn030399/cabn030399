@@ -1,5 +1,7 @@
+
 markdown<div align="center">
-<img width="1983" height="793" alt="carlosborjaportada" src="https://github.com/user-attachments/assets/e9eda3ea-98da-4504-ae0c-18dd05f5ada2" />
+
+<img width="1856" height="576" alt="image_8c53d57b" src="https://github.com/user-attachments/assets/7d93f8af-04eb-47c8-98e8-7d9927e9dd10" />
 
 </div>
   
